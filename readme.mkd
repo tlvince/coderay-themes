@@ -1,0 +1,5 @@
+# CodeRay Themes
+
+A collection of themes for [CodeRay][].
+
+  [CodeRay]: http://coderay.rubychan.de/
